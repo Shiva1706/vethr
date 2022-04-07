@@ -3,11 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 You can check live time temperature and weather of your location.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
 
 ##Live Demo
 
