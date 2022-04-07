@@ -1,4 +1,3 @@
-
 import React,{useState } from 'react';
 const api ={
   key:"4c155a5b80cbd6e89e2a100a8551e312",
@@ -35,7 +34,7 @@ function App() {
 
   return (
     <div className={
-      (typeof weather.main !="undefined")? ((weather.weather[0].main != 'Clouds') ? 'app warm': 'app') : 'app'}>
+      (typeof weather.main !="undefined")? ((weather.weather[0].main !== 'Clouds') ? 'app warm': 'app') : 'app'}>
       <main>
         <div className='search-box'>
           <input 

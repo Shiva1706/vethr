@@ -33,25 +33,28 @@ main{
 
 .search-box .search-bar{
   display: block;
-  width: 100%;
+  width: 20rem;
   padding: 15px;
 
   appearance: none;
-  background: none;
-  border: none;
   outline: none;
-  border-radius: 0 25px;
 
-  background-color: rgba(99, 99, 99, 0.5);
-  margin-top: -20px;
+  margin-top: 10px;
   box-shadow: 3px 5px 3px rgba(54, 1, 1, 0.3);
 
-  color: #4dc905;
-  font-size: 15px;
+  color: #ec51fa;
+  font-size: 1rem;
+  
+  background: rgba(244, 142, 101, 0.4);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius:10px 10px 0;
+  border: 2px solid rgba(255, 104, 250, 0.18);
 }
 
 .search-box .search-bar:focus{
-  background-color: rgba(255, 255, 255,0.75);
+  background-color: rgba(248, 135, 123, 0.75);
 }
 
 .location-box .location{
