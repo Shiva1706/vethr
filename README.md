@@ -9,7 +9,8 @@ In the project directory, you can run:
 ### `npm start`
 
 ##Live Demo
-Click `https://shiva1706.github.io/vethr/`
+
+>Click: https://shiva1706.github.io/vethr/
 
 ### `npm test`
 
