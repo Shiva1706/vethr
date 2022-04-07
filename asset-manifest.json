@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vethr/static/css/main.783c8e97.css",
-    "main.js": "/vethr/static/js/main.f6431253.js",
+    "main.css": "/vethr/static/css/main.2f78687a.css",
+    "main.js": "/vethr/static/js/main.8778b063.js",
     "static/media/sun.jpg": "/vethr/static/media/sun.c8792b8e1b927b919dc2.jpg",
     "static/media/cloud.jpg": "/vethr/static/media/cloud.a5ca38afc6daba70ed5a.jpg",
     "index.html": "/vethr/index.html",
-    "main.783c8e97.css.map": "/vethr/static/css/main.783c8e97.css.map",
-    "main.f6431253.js.map": "/vethr/static/js/main.f6431253.js.map"
+    "main.2f78687a.css.map": "/vethr/static/css/main.2f78687a.css.map",
+    "main.8778b063.js.map": "/vethr/static/js/main.8778b063.js.map"
   },
   "entrypoints": [
-    "static/css/main.783c8e97.css",
-    "static/js/main.f6431253.js"
+    "static/css/main.2f78687a.css",
+    "static/js/main.8778b063.js"
   ]
 }
